@@ -38,6 +38,7 @@ epoll event loop → task queue → worker threads → request handler → respo
 ---
 
 ## Build & Run
+This project is built and run from the **Linux terminal** using `make`.
 
 ### Build project
 ```bash
