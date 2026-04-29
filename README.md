@@ -37,6 +37,28 @@ epoll event loop → task queue → worker threads → request handler → respo
 
 ---
 
+## Build & Run
+
+### Build project
+```bash
+make
+```
+
+### Run server
+```bash
+make run
+```
+
+### Clean build files
+```bash
+make clean
+```
+
+### Rebuild project
+```bash
+make rebuild
+```
+
 ## 📌 Purpose
 
 This project demonstrates low-level system programming, network programming, and scalable server design principles.
