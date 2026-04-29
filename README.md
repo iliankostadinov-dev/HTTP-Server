@@ -15,7 +15,7 @@ It supports **non-blocking I/O**, **persistent connections (keep-alive)**, and s
 - Thread pool for concurrent request handling
 - HTTP GET request support
 - Keep-alive connection handling
-- Static file server (HTML, CSS, JS, images)
+- Static file server (HTML)
 - Basic MIME type detection
 
 ---
